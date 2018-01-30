@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # decouverte
 
 This README outlines the details of collaborating on this Ember application.
@@ -50,3 +51,7 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+=======
+# ember-training
+Ember training
+>>>>>>> ac14c9b44de1d78b0ff178885d8a8693abc0f7b9

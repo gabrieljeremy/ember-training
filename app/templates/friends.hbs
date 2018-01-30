@@ -1,0 +1,8 @@
+friends List
+{{!-- {{model.name}} is  {{model.age}} --}}
+<ul>
+{{#each model as |friend|}}
+    <li>{{friend.name}}</li>
+{{/each}}
+</ul>
+{{outlet}}
